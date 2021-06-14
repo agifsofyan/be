@@ -1,0 +1,4 @@
+mongodb+srv://clusteragif.j71ff.mongodb.net:27017/mgi_agif"
+
+user: passwordGuard
+pass: passwordGuard
