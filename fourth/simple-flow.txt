@@ -1,0 +1,11 @@
+# Barang (aset) di data berdasarkan: 
+1. asalnya
+2. tanggal masuk
+3. nama barang
+4. type
+5. merek
+6. jumlah barang yang sama
+7. penerima barang saat datang
+8. penanggung jawab barang
+
+note: tanggal keluar tidak ada. karena jika barang dijual / rusak / hilang. Maka hanya di update stok nya. Dan apabila stok sudah 0 maka akan terhapus dari data yang ada. 
